@@ -2615,7 +2615,7 @@ input, select, textarea {
 			}
 
 .responsive-img {
-  max-width: 50%; /* Ensures the image never exceeds the width of its parent */
+  max-width: 100%; /* Ensures the image never exceeds the width of its parent */
   height: auto;    /* Automatically adjusts the height to maintain the aspect ratio */
 }
 
@@ -3913,6 +3913,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
